@@ -52,6 +52,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hrstpathak/hrstpathak/output/snake.svg" alt="Snake animation" />
 
 ###
